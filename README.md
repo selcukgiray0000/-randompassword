@@ -12,3 +12,10 @@ Merhaba, PHP Rastgele Şifre Oluşturucu uygulamasına ihtiyacı olan arkadaşla
 ## MAKALE
 https://kodpazari.com/project/php-rastgele-sifre-olusturucu/4
 
+## RESİM
+
+![Screenshot_1](https://user-images.githubusercontent.com/110834643/190996945-b0e153a0-80bb-45ff-a021-c10dfae1afe0.png)
+
+
+
+
