@@ -10,5 +10,5 @@
 Merhaba, PHP Rastgele Şifre Oluşturucu uygulamasına ihtiyacı olan arkadaşlar için bu projeyi geliştirdim. Yapılabilecek en basit şekilde oluşturdum projeyi özelliklerinden bahsedeyim. Bu projeyi geliştirebilirsiniz. Oluşturduğunuz şifreleri veritabanına kaydederek önceki oluşturmuş olduğunuz şifreleri de görebilirsiniz. Tamamen sizin hayal gücünüze kalmış bir durum. Bunu iskelet olarak kullanabilirsiniz.
 
 ## MAKALE
-
+https://kodpazari.com/project/php-rastgele-sifre-olusturucu/4
 
